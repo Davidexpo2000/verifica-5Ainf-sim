@@ -1,7 +1,7 @@
 
 // TODO Inserire il package corretto
 // nota: potete usare il suggerimento della lampadina a sinistra (scegliete l'unica opzione sensata). 
-package __TODO__;
+package ___TODO__;
 
 import javax.swing.*;
 
